@@ -1,4 +1,4 @@
-This is еру ZOHO Widget
+This is the ZOHO Widget
 1. open prompt (install npm before)
 2. zet init (to create ZOHO project)
 3. zet validate
