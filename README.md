@@ -14,4 +14,7 @@ File Upload -> upload zip file
 This widget displays the current NBU dollar rate and the rate in Deal. 
 If the rate difference is more than 5%, the button to update the rate in Deal to the NBU rate is displayed.  If you press the button to update the rate, the rate in Deal is updated to the NBU rate.
 
-<video src="Widget%20ZOHO.mp4" controls title="Widget Demo"></video>
+
+
+https://github.com/Cloudjetty/ZohoWidget/assets/80780198/bee44086-f6df-4d66-b1ce-aa6bcd057ebd
+
